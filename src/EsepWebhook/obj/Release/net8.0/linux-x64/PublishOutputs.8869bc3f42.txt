@@ -1,0 +1,6 @@
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll

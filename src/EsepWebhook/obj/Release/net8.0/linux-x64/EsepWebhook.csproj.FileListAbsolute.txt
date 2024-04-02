@@ -1,0 +1,17 @@
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.deps.json
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.runtimeconfig.json
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\EsepWebhook.pdb
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+C:\dev\AWS\EventDriven\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
