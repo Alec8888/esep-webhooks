@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\AWS\\EventDriven\\src\\EsepWebhook\\EsepWebhook.csproj": {}
+    "C:\\dev\\AWS\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\dev\\AWS\\EventDriven\\src\\EsepWebhook\\EsepWebhook.csproj": {
+    "C:\\dev\\AWS\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\AWS\\EventDriven\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\dev\\AWS\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\dev\\AWS\\EventDriven\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\dev\\AWS\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\Alec\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\AWS\\EventDriven\\src\\EsepWebhook\\obj\\",
+        "outputPath": "C:\\dev\\AWS\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alec\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,6 +50,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -65,15 +69,7 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[8.0.3, 8.0.3]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[8.0.3, 8.0.3]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[8.0.3, 8.0.3]"
             }
           ],
@@ -83,11 +79,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
